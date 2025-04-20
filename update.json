@@ -1,5 +1,5 @@
 {
   "version": "1.0.5",
-  "download_url": "",
-  "changelog": "Fixed bugs and improved speed."
+  "download_url": "https://yourdomain.com/MyApp.exe",
+  "changelog": "• Added auto-update support\n• Bug fixes and improvements"
 }
